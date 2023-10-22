@@ -1,4 +1,4 @@
-name : any = "Pakistan"
+name : str = "Pakistan"
 print(name) # print
 print(type(name)) # type
 print(id(name)) # physcial address
