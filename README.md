@@ -18,9 +18,13 @@ Meeting ID: 822 2469 1502
 
 Passcode: 936542
 
-This session will also be live streamed on YouTube:
+This session will also be live-streamed on YouTube:
  
 https://www.youtube.com/@panaverse/streams
+
+## Class Recordings
+
+[Recorded Classes YouTube Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0)
 
 
 ## What is Modern Python?
@@ -69,6 +73,10 @@ Resources for Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 3. [Python end parameter in print()](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
 
 4. Typing
+   
+https://www.infoworld.com/article/3630372/get-started-with-python-type-hints.html
+
+https://peps.python.org/pep-0484/#type-aliases
 
 https://realpython.com/python-type-checking/
 
